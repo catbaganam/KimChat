@@ -1,6 +1,6 @@
 "# KimChat" 
 ☭☭☭☭☭☭☭☭☭☭☭☭☭☭☭☭☭☭☭☭☭☭☭☭☭☭☭☭☭☭☭☭☭☭☭☭☭☭☭☭☭☭☭☭☭☭☭☭☭☭☭☭☭☭☭☭☭☭☭☭☭☭☭☭☭☭☭☭☭☭☭☭
-KimChat is a North Korean Ppseudo-media
+KimChat is a North Korean pseudo-media
 
 Ever wanted to post about Kim Jong Un?
 Here is everyone's opportunity to do so:
@@ -12,5 +12,5 @@ Here is everyone's opportunity to do so:
 5. For new users put in a username and password and press 'enter' in the 'new user' slot
 6. Post about North Korea's favorite man: Kim Jong Un
 
-*Note KimChat does not access the internet*
+*Note: KimChat is a pseudo-media program, not a social-media*
 ⍟⍟⍟⍟⍟⍟⍟⍟⍟⍟⍟⍟⍟⍟⍟⍟⍟⍟⍟⍟⍟⍟⍟⍟⍟⍟⍟⍟⍟⍟⍟⍟⍟⍟⍟⍟⍟⍟⍟⍟⍟⍟⍟⍟⍟⍟⍟⍟⍟⍟⍟⍟⍟⍟
